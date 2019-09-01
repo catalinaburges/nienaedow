@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongaimohf.azim.icu/sitemap.xml
